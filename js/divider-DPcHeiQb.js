@@ -1,0 +1,1 @@
+import{m as e,f as t,R as n,h as i}from"./index-BfkEL7Ok.js";const o="adm-divider",c={contentPosition:"center",direction:"horizontal"},r=r=>{const s=e(c,r);return t(s,n.createElement("div",{className:i(o,`${o}-${s.direction}`,`${o}-${s.contentPosition}`)},s.children&&n.createElement("div",{className:`${o}-content`},s.children)))};export{r as D};
