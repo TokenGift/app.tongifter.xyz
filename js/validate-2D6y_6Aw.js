@@ -1,0 +1,1 @@
+import{W as t}from"./index-CGKlQllf.js";function o(t){return!!t&&"object"==typeof t&&"function"==typeof t.then}function e(){return!!t&&/ios|iphone|ipad|ipod/.test(navigator.userAgent.toLowerCase())}export{e as a,o as i};
